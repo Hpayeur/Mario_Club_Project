@@ -1,5 +1,8 @@
 h1 {
   color: rgb(150, 3, 3);
+  background-color: rgba(156, 28, 28, 0.651);
+  font-size: 30px;
+  text-decoration: line-through;
 }
 p {
   color: navy;
