@@ -16,3 +16,7 @@ ul {
   border-bottom: 4px solid rgba(156, 28, 28, 0.651);
   border-left: 6px dashed rgba(156, 28, 28, 0.651);
 }
+li {
+  list-style-type: square;
+  text-shadow: 1px 1px lightslategray;
+}
