@@ -13,5 +13,6 @@ p {
   letter-spacing: 2px;
 }
 ul {
-  border: 4px solid rgba(156, 28, 28, 0.651);
+  border-bottom: 4px solid rgba(156, 28, 28, 0.651);
+  border-left: 6px dashed rgba(156, 28, 28, 0.651);
 }
