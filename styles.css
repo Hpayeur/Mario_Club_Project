@@ -12,3 +12,8 @@ p {
   line-height: 30px;
   letter-spacing: 2px;
 }
+ul {
+  border-width: 4px;
+  border-style: soild;
+  border-color: rgba(156, 28, 28, 0.651);
+}
