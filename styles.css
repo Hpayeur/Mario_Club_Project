@@ -49,3 +49,7 @@ nav li {
   display: inline-block;
   font-fize: 24px;
 }
+nav li a {
+  text-decoration: none;
+  color: #4b4b4b;
+}
