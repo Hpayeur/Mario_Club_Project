@@ -1,12 +1,12 @@
 .header {
   position: static;
 }
-.banner {
+.Intro {
   position: relative;
 }
-.banner img {
+.Intro img {
   max-width: 100%;
 }
-.banner .welcome {
+.Intro .Hello {
   position: absolute;
 }
