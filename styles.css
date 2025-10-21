@@ -1,11 +1,16 @@
 .header {
 }
-.Intro {
+.banner {
   position: relative;
 }
-.Intro img {
+.banner img {
   max-width: 100%;
 }
-.Intro .Hello {
+.banner .welcome {
+  background-color: #3d5970;
+  color: white;
+  padding: 30px;
   position: absolute;
+  left: 0;
+  top: 30%;
 }
