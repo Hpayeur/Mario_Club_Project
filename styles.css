@@ -1,3 +1,6 @@
-.Title-Banner img {
+.Banner img {
   max-width: 100%;
+}
+.Banner .Welcome {
+  postion: absolute;
 }
