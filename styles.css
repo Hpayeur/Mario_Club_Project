@@ -1,6 +1,11 @@
-.Banner img {
+header {
+}
+.banner {
+  position: relative;
+}
+.banner img {
   max-width: 100%;
 }
-.Banner .Welcome {
+.banner .welcome {
   position: absolute;
 }
