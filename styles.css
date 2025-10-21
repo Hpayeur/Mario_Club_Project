@@ -13,7 +13,7 @@ p {
 }
 header {
   background-color: #8b0000;
-  padding: 20px 0;
+  padding: 20px;
   text-align: center;
   position: fixed;
   width: 100%;
@@ -30,10 +30,12 @@ header h1 {
 }
 .banner {
   position: relative;
-  width: 100vw;
 }
 .banner img {
+  position: relative;
   max-width: 100%;
+  top: 100px;
+  left: 0px;
 }
 .banner .welcome {
   background: #752e2e;
@@ -96,14 +98,14 @@ article p::first-line {
 }
 .images {
   text-align: center;
-  margin: 80px 0;
+  margin: 40px 0;
   white-space: nowrap;
 }
 .images li {
   display: inline-block;
   list-style-type: none;
-  width: 40%;
-  margin: 20px 5%;
+  width: 20%;
+  margin: 10px 5%;
   position: relative;
 }
 .images li:hover {
