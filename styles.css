@@ -14,3 +14,9 @@
   left: 0;
   top: 30%;
 }
+.banner h2 {
+  font-size: 74px;
+}
+.banner h2 span {
+  font-size: 1.3em;
+}
