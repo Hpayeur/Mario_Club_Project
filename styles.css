@@ -12,8 +12,8 @@ p {
   font-size: 18px;
 }
 header {
-  background-color: #8b0000;
-  padding: 20px;
+  background-color: #f63232;
+  padding: 20px 0;
   text-align: center;
   position: fixed;
   width: 100%;
@@ -32,11 +32,10 @@ header h1 {
   position: relative;
 }
 .banner img {
-  position: relative;
   max-width: 100%;
 }
 .banner .welcome {
-  background: #752e2e;
+  background: #feb614;
   color: white;
   padding: 30px;
   font-size: 60px;
@@ -73,7 +72,7 @@ nav li a:hover {
   text-decoration: underline;
 }
 nav li a.join {
-  color: #8b0000;
+  color: #f63232;
 }
 main {
   max-width: 100%;
@@ -83,7 +82,7 @@ main {
   box-sizing: border-box;
 }
 article h2 {
-  color: #8b0000;
+  color: #f63232;
   font-size: 48px;
 }
 article p {
@@ -96,14 +95,14 @@ article p::first-line {
 }
 .images {
   text-align: center;
-  margin: 40px 0;
+  margin: 80px 0;
   white-space: nowrap;
 }
 .images li {
   display: inline-block;
   list-style-type: none;
-  width: 20%;
-  margin: 10px 5%;
+  width: 40%;
+  margin: 20px 5%;
   position: relative;
 }
 .images li:hover {
@@ -133,10 +132,10 @@ form input:focus {
   outline: none;
 }
 form input:valid {
-  border: 4px solid #54683d;
+  border: 4px solid #71d300;
 }
 footer {
-  background: #8b0000;
+  background: #f63232;
   color: white;
   padding: 10px;
   text-align: center;
