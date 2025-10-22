@@ -34,8 +34,6 @@ header h1 {
 .banner img {
   position: relative;
   max-width: 100%;
-  top: 100px;
-  left: 0px;
 }
 .banner .welcome {
   background: #752e2e;
