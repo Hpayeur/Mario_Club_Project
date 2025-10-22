@@ -141,7 +141,9 @@ footer {
   padding: 10px;
   text-align: center;
 }
-
+footer a {
+  color: #a7aa00;
+}
 /* responsive styles */
 
 @media screen and (max-width: 1400px) {
